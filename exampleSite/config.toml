@@ -163,7 +163,7 @@ home = ["HTML", "RSS"]
 [params]
 author = "Themefisher"
 contact_form_action = "https://formspree.io/f/xknyndll"
-description = "This is meta description"
+description = "Saskara Strategik"
 logo = "images/logo.png"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
