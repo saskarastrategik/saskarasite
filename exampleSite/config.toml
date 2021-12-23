@@ -162,7 +162,7 @@ unsafe = true
 home = ["HTML", "RSS"]
 [params]
 author = "Themefisher"
-contact_form_action = "#"
+contact_form_action = "https://formspree.io/f/xknyndll"
 description = "This is meta description"
 logo = "images/logo.png"
 [[params.plugins.css]]
