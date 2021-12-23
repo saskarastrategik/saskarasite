@@ -190,7 +190,7 @@ enable = true
 preloader = ""
 [[params.social]]
 icon = "ti-whatsapp"
-link = ""
+link = "#"
 name = "Whatsapp"
 [[params.social]]
 icon = "ti-facebook"
