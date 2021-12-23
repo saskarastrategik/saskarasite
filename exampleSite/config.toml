@@ -187,7 +187,7 @@ link = "plugins/shuffle/shuffle.min.js"
 link = "plugins/aos/aos.js"
 [params.preloader]
 enable = true
-preloader = ""
+preloader = "Saskara Strategik"
 [[params.social]]
 icon = "ti-facebook"
 link = "#"
