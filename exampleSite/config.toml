@@ -189,6 +189,10 @@ link = "plugins/aos/aos.js"
 enable = true
 preloader = ""
 [[params.social]]
+icon = "ti-whatsapp"
+link = ""
+name = "Whatsapp"
+[[params.social]]
 icon = "ti-facebook"
 link = "#"
 name = "facebook"
